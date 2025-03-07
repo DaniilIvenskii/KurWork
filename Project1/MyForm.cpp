@@ -3,7 +3,7 @@
 #include <cmath>
 #include <fstream>
 #include <Windows.h>
-
+#include <iostream>
 using namespace Project1;
 using namespace std;
 
